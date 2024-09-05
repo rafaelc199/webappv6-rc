@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2pk4nXPu1dHxw1O5bZ5A/RmtKg2xRhouIX/WDPQSKGs=",
+  "Source": "webappv6-rc",
+  "BasePath": "_content/webappv6-rc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
